@@ -1,0 +1,5 @@
+<sourceTypeMetadata>
+		<!-- sourceTypeName must be unique -->
+		<sourceTypeName>FloDar</sourceTypeName>
+		<sourceTypeDescription>FloDar by Hach Lange. No contact flow measurement device. Radar based surface flow velocity measurement (from which an average flow velocity over the flow profile is calculated) and an ultrasonic level measurement and an additional surcharge level measurement (pressure transducer)</sourceTypeDescription>
+</sourceTypeMetadata>

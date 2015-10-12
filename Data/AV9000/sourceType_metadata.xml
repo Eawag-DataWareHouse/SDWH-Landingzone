@@ -1,0 +1,5 @@
+<sourceTypeMetadata>
+		<!-- sourceTypeName must be unique -->
+		<sourceTypeName>AV9000</sourceTypeName>
+		<sourceTypeDescription>Mouse with pressure transducer and ultrasonic flow velocity measurement. Produced by Hach Lange. Compatible with the FL900 Data logger series.</sourceTypeDescription>
+</sourceTypeMetadata>

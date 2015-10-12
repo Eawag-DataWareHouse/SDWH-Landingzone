@@ -1,0 +1,20 @@
+<siteMetadata>
+	<siteName>Adliswil Flow 02</siteName> <!-- must be unique! -->
+	<siteDescription>Inflow from upstream villages, directly after inverted syphon</siteDescription>
+	<street>Alte Sihlstrasse</street>
+	<city>8134 Adliswil, Switzerland</city>
+	<coordinates>
+		<coordX>682558</coordX>  <!-- all coordinates (x,y,z) must be *identical* to the one in the standardized file format -->
+		<coordY>239404</coordY>
+		<coordZ></coordZ>
+	</coordinates>
+
+<!-- If you add a new picture, either "description" or "date" has to be different from all existing pictures in the database,
+if both are the same, the picture is not loaded! If you change the "date" or "description" of an already existing picture, it will be duplicated in the database. -->
+
+	<picture>
+		<pathToThePicture></pathToThePicture>
+		<description></description>
+		<date></date> <!-- date format has to be exactely: yyyy/MM/dd HH:mm:ss.SSS-->
+	</picture>
+</siteMetadata>

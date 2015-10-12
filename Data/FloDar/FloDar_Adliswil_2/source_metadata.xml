@@ -1,0 +1,12 @@
+<sourceMetadata>
+		<sourceName>FloDar Site 2 Adliswil</sourceName>
+		<sourceTypeName>FloDar</sourceTypeName>
+		<serial>FloDar123</serial>
+		<sourceDescription>FloDar installed at flow measurement site 2 in Adliswil, run in 2 min intervals</sourceDescription>
+		<integration>
+			<lengthX></lengthX>
+			<lengthY></lengthY>
+			<angle></angle>
+			<time></time>
+		</integration>
+</sourceMetadata>

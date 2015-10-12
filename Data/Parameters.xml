@@ -1,0 +1,105 @@
+<parameters>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Absorbance 200.00_nm</parameterName>
+			<parameterUnit>m-1</parameterUnit>
+			<parameterDescription>absorbance at 200.00 nm wavelength</parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Absorbance 202.50_nm</parameterName>
+			<parameterUnit>m-1</parameterUnit>
+			<parameterDescription>absorbance at 202.50 nm wavelength</parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Absorbance 205.00_nm</parameterName>
+			<parameterUnit>m-1</parameterUnit>
+			<parameterDescription>absorbance at 205.00 nm wavelength</parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>rain intensity</parameterName>
+			<parameterUnit>mm/h</parameterUnit>
+			<parameterDescription></parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>rain intensity pluvio</parameterName>
+			<parameterUnit>mm/min</parameterUnit>
+			<parameterDescription>measured precipitation amount per minute</parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Temperature</parameterName>
+			<parameterUnit>deg Celsius</parameterUnit>
+			<parameterDescription></parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Flow</parameterName>
+			<parameterUnit>L/s</parameterUnit>
+			<parameterDescription></parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Water Level</parameterName>
+			<parameterUnit>mm</parameterUnit>
+			<parameterDescription></parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Average Flow Velocity</parameterName>
+			<parameterUnit>m/s</parameterUnit>
+			<parameterDescription>Average flow velocity over the whole flow profile</parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Distance</parameterName>
+			<parameterUnit>mm</parameterUnit>
+			<parameterDescription>Distance to water level</parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Surface Flow Velocity</parameterName>
+			<parameterUnit>m/s</parameterUnit>
+			<parameterDescription></parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Distance Reading Count</parameterName>
+			<parameterUnit>counts</parameterUnit>
+			<parameterDescription>Number of distance readings that were averaged for the final reading</parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Surcharge Level</parameterName>
+			<parameterUnit>mm</parameterUnit>
+			<parameterDescription>Total water level when pipe is under surcharge</parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Peak to Mean Ratio</parameterName>
+			<parameterUnit></parameterUnit>
+			<parameterDescription>Peak to mean ratio of surface velocity measurement</parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Number of Samples</parameterName>
+			<parameterUnit>counts</parameterUnit>
+			<parameterDescription>Number of samples for surface velocity measurement</parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Battery Votage</parameterName>
+			<parameterUnit>V</parameterUnit>
+			<parameterDescription></parameterDescription>
+</parameter>
+<parameter>
+			<!-- parameter-name has to be unique and identical to the parameter from the std format  -->
+			<parameterName>Gain</parameterName>
+			<parameterUnit></parameterUnit>
+			<parameterDescription>Quality parameter for velocity measurement</parameterDescription>
+</parameter>
+
+</parameters>

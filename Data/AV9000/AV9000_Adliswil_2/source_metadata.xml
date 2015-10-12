@@ -1,0 +1,12 @@
+<sourceMetadata>
+		<sourceName>AV9000_Adliswil2</sourceName>
+		<sourceTypeName>AV9000</sourceTypeName>
+		<serial>AV9000_123</serial>
+		<sourceDescription>Run in one minute resolution, at Adliswil flow measurement site 2. Run with FL902 Datalogger. No filtering or aggregation applied</sourceDescription>
+		<integration>
+			<lengthX></lengthX>
+			<lengthY></lengthY>
+			<angle></angle>
+			<time></time>
+		</integration>
+</sourceMetadata>
